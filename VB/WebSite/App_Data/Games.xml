@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<games>
+    <genre name="Action Adventure">
+        <game name="Grand Theft Auto: Vice City" year="2003" />
+        <game name="Mafia" year="2002" />
+        <game name="Grand Theft Auto III" year="2002" />
+        <game name="Tom Clancy's Splinter Cell Pandora Tomorrow" year="2004" />
+        <game name="Thief: The Dark Project" year="1998" />
+        <game name="Crusader: No Regret" year="1996" />
+        <game name="Manhunt" year="2004" />
+        <game name="The Elder Scrolls Adventures: Redguard" year="1998" />
+    </genre>
+    <genre name="Adventure / Quest">
+        <game name="Broken Sword: The Sleeping Dragon" year="2003" />
+        <game name="Escape from Monkey Island" year="2000" />
+        <game name="Full Throttle" year="1996" />
+        <game name="Leisure Suit Larry 1: In the Land of the Lounge Lizards" year="1987" />
+        <game name="Leisure Suit Larry 2" year="1989" />
+        <game name="Space Quest V: The Next Mutation" year="1993" />
+        <game name="The Curse of Monkey Island" year="1997" />
+        <game name="Toonstruck" year="1996" />
+        <game name="Zork Grand Inquisitor" year="1996" />
+    </genre>
+    <genre name="First-Person Shooters">
+        <game name="Crysis" year="2007" />
+        <game name="The Orange Box " year="2007" />
+        <game name="Unreal Tournament " year="1999" />
+        <game name="Unreal Tournament 2004 " year="2004" />
+        <game name="Half-Life " year="1998" />
+        <game name="No One Lives Forever 2: A Spy in H.A.R.M.'s Way" year="2002" />
+        <game name="Quake " year="1996" />
+        <game name="Half-Life 2" year="2004" />
+        <game name="Quake III Arena" year="1999" />
+        <game name="Call of Duty" year="2003" />
+        <game name="Doom 64" year="1997" />
+        <game name="Doom II" year="2002" />
+    </genre>
+    <genre name="Real-Time Strategy">
+        <game name="Command &amp; Conquer Red Alert" year="1996" />
+        <game name="Dune: The Battle for Arrakis" year="1993" />
+        <game name="Dungeon Keeper" year="1997" />
+        <game name="Medieval: Total War" year="2002" />
+        <game name="Starcraft: Brood War" year="1998" />
+        <game name="Starcraft" year="1998" />
+        <game name="Total Annihilation" year="1997" />
+        <game name="Warcraft II: Tides of Darkness" year="1996" />
+        <game name="Warcraft II: Beyond the Dark Portal" year="1996" />
+        <game name="Warcraft III: Reign of Chaos" year="2002" />
+        <game name="World in Conflict" year="2007" />
+    </genre>
+    <genre name="Role-Playing">
+        <game name="Diablo" year="1997" />
+        <game name="The Elder Scrolls IV: Oblivion" year="2006" />
+        <game name="Baldur's Gate" year="1999" />
+        <game name="Fallout 2" year="1998" />
+        <game name="The Elder Scrolls III: Morrowind" year="2002" />
+        <game name="Fallout" year="1997" />
+        <game name="Diablo II" year="2000" />
+        <game name="Might and Magic VI: The Mandate of Heaven" year="1998" />
+    </genre>
+    <genre name="Turn-Based Strategy">
+        <game name="Civilization IV " year="2005" />
+        <game name="Civilization III" year="2001" />
+        <game name="Civilization II" year="1996" />
+        <game name="X-COM: UFO Defense " year="1996" />
+        <game name="Heroes of Might and Magic IV" year="2002" />
+        <game name="Jagged Alliance 2" year="2003" />
+        <game name="Silent Storm" year="2004" />
+    </genre>
+</games>
