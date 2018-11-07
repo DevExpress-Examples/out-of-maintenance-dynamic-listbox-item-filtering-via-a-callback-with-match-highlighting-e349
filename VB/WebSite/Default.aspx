@@ -1,9 +1,9 @@
 <%-- BeginRegion Page setup --%>
 <%@ Page Language="vb" AutoEventWireup="true" CodeFile="Default.aspx.vb" Inherits="Editors_ListBoxItemFiltering_ListBoxItemFiltering" %>
-<%@ Register Assembly="DevExpress.Web.v11.2" Namespace="DevExpress.Web.ASPxCallbackPanel" TagPrefix="dx" %>
-<%@ Register Assembly="DevExpress.Web.v11.2" Namespace="DevExpress.Web.ASPxRoundPanel" TagPrefix="dx" %>
-<%@ Register Assembly="DevExpress.Web.v11.2" Namespace="DevExpress.Web.ASPxPanel" TagPrefix="dx" %>
-<%@ Register Assembly="DevExpress.Web.ASPxEditors.v11.2" Namespace="DevExpress.Web.ASPxEditors" TagPrefix="dx" %>
+<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxCallbackPanel" TagPrefix="dx" %>
+<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxRoundPanel" TagPrefix="dx" %>
+<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxPanel" TagPrefix="dx" %>
+<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxEditors" TagPrefix="dx" %>
 
 <%-- EndRegion --%>
 
