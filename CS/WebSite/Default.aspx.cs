@@ -18,14 +18,14 @@ using System.Web.UI.WebControls;
 using System.Web.UI.WebControls.WebParts;
 using System.Web.UI.HtmlControls;
 using System.Xml;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 using System.Text;
 
 public partial class Editors_ListBoxItemFiltering_ListBoxItemFiltering : System.Web.UI.Page {
     protected void Page_Load(object sender, EventArgs e) {
         PopulateGameList();
     }
-    protected void OnCallback(object source, DevExpress.Web.ASPxClasses.CallbackEventArgsBase e) {
+    protected void OnCallback(object source, DevExpress.Web.CallbackEventArgsBase e) {
         PopulateGameList();
     }
 

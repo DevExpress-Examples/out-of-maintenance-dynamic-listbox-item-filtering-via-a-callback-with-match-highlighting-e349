@@ -20,7 +20,7 @@ Imports System.Web.UI.WebControls
 Imports System.Web.UI.WebControls.WebParts
 Imports System.Web.UI.HtmlControls
 Imports System.Xml
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 Imports System.Text
 
 Partial Public Class Editors_ListBoxItemFiltering_ListBoxItemFiltering
@@ -28,7 +28,7 @@ Partial Public Class Editors_ListBoxItemFiltering_ListBoxItemFiltering
 	Protected Sub Page_Load(ByVal sender As Object, ByVal e As EventArgs)
 		PopulateGameList()
 	End Sub
-	Protected Sub OnCallback(ByVal source As Object, ByVal e As DevExpress.Web.ASPxClasses.CallbackEventArgsBase)
+	Protected Sub OnCallback(ByVal source As Object, ByVal e As DevExpress.Web.CallbackEventArgsBase)
 		PopulateGameList()
 	End Sub
 
