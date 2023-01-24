@@ -1,6 +1,6 @@
 <%-- BeginRegion Page setup --%>
 <%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="Editors_ListBoxItemFiltering_ListBoxItemFiltering" %>
-<%@ Register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web" TagPrefix="dx" %>
+<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web" TagPrefix="dx" %>
 
 
 
